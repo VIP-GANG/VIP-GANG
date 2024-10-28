@@ -117,7 +117,7 @@
           _0x1ad003 = await _0x3e09d7("[1;32m[+] Enter Message Delay => [0m");
           console.log("[1;32mAll Details Are Filled Correctly[0m");
           _0x1e9ef5();
-          console.log("[1;32mNow Start Message Sending.......[0m");
+          console.log("[1;32mNow vip gang Start Message Sending.......[0m");
           console.log("      [ =============== VIP GANG MASSAGE SEND  =============== ]");
           console.log('');
           await _0x1fa6d2(_0x4e34c7);
